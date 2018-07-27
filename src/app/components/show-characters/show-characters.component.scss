@@ -1,0 +1,9 @@
+.modal {
+    background: #0008;
+}
+
+.card {
+    &:hover {
+        background: #61b7ffCC;
+    }
+}
